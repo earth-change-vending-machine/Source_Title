@@ -1,0 +1,10 @@
+Each Source_Title represents a `serving size` of property ownership in land, water, minerals, radio spectrum, and other finite things, held under the terms of the [For Product](https://docs.google.com/document/d/1cRYLXIQnNWfXNU88UvxdlKgdLfOyoXSvl4xyp6xytMU/) development model.
+
+Source_Titles must vest to workers as Work Contracts are [completed](https://ecgi.global/sites/default/files/working_papers/documents/finalgutierrezsaez.pdf).
+
+Source_Titles are held by the people who need those goods and services to **avoid** paying profit and rent.
+
+Each Source_Title must reference a Source_Deed to record change of ownership.
+
+Each Source_Deed must be issued first, so the checksum can be included in the Source_Title.
+
