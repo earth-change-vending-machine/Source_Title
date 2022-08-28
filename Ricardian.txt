@@ -1,11 +1,11 @@
-Each Source_Title represents a `serving size` of property ownership in land, water, minerals, radio spectrum, and other finite things, held under the terms of the [For Product](https://docs.google.com/document/d/1cRYLXIQnNWfXNU88UvxdlKgdLfOyoXSvl4xyp6xytMU/) development model.
+A legally binding document (as defined by the many layers of "containing governments" you find yourself within) representing a bundle of property rights, or the closest approximation within that realm, such as land ownership, water rights, mineral rights and exclusive access to other truly finite things, held under the terms of the [For_Product](https://docs.google.com/document/d/1cRYLXIQnNWfXNU88UvxdlKgdLfOyoXSvl4xyp6xytMU/) model.
 
-Source_Titles must vest to workers as Work Contracts are [completed](https://ecgi.global/sites/default/files/working_papers/documents/finalgutierrezsaez.pdf).
+Source_Titles must vest to workers as Work_Contracts are [completed](https://ecgi.global/sites/default/files/working_papers/documents/finalgutierrezsaez.pdf).
 
 Source_Titles are held by the people who need those goods and services to **avoid** paying profit and rent.
 
 Each Source_Title must reference a Source_Deed to record change of ownership.
 
-Each Source_Deed must be issued first, so the checksum can be included in the Source_Title.
+During property transfer, the new Source_Deed is issued first so that checksum can be included in the new Source_Title.
 
-ed888f92c679e44326494eda0e72414a  Ricardian.txt
+CHECKSUM_OUT_OF_DATE  Ricardian.txt
